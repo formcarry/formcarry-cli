@@ -27,7 +27,7 @@ $ formcarry add "My Sweet Form"
 ```
 Output:
 ```
-✔ Your form is successfully created
+✔ Your form was successfully created
 ✔ Your endpoint url copied to clipboard:
 https://formcarry.com/s/BywEPAJNb
 ```
@@ -44,7 +44,7 @@ $ formcarry add "My Sweet Form" -r "https://myreturnurl.io" -n "myfist@mail.com,
 ```
 Output:
 ```
-✔ Your form is successfully created
+✔ Your form was successfully created
 ✔ Your endpoint url copied to clipboard:
 https://formcarry.com/s/BywEPAJNb
 ```
@@ -55,7 +55,7 @@ $ formcarry delete BJedGRDQZ
 ```
 Output:
 ```
-✔ Your form is successfully deleted.
+✔ Your form was successfully deleted.
 ```
 
 ## Listing Forms:
