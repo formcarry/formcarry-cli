@@ -19,7 +19,7 @@
     "url": "https://github.com/formcarry/formcarry-cli/issues"
   },
   "bin": {
-    "form": "./src/executables/formcarry.js"
+    "formcarry": "./src/executables/formcarry.js"
   },
   "homepage": "https://github.com/formcarry/formcarry-cli#readme",
   "dependencies": {
