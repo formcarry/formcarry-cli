@@ -51,7 +51,7 @@ program
 
 program
 	.command('forms')
-	.description('list your form\'s')
+	.description('list your forms')
 	.action(function(){
 		myForms();
 	});

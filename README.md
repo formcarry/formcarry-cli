@@ -19,7 +19,7 @@ Command | Description
 login | login to your formcarry account
 add [options] <name> | create a new form
 delete <id> | delete form with id
-forms | List your form's
+forms | List your forms
 
 ## Create A New Form:
 ```
